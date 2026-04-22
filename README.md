@@ -112,7 +112,7 @@ Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months
 
 <div align="center">
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashNayak24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashNayak24&show_icons=true&theme=tokyonight&count_private=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashNayak24&layout=compact&theme=tokyonight)
 
