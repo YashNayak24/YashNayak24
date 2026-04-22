@@ -111,18 +111,22 @@ Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ynayak658&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynayak658&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashNayak24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashNayak24&layout=compact&theme=tokyonight)
 
 </div>
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
-  
-  ![Streak](https://streak-stats.demolab.com?user=ynayak658&theme=tokyonight&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/YashNayak24/YashNayak24/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 ---
 
 ## 📬 Connect With Me
