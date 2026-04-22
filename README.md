@@ -52,33 +52,39 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 
 ## 🚀 Featured Projects
 
+## 🚀 Projects
 
- EduraIndia — Best Computer Institute in Delhi   🏆 Full-Stack Production Project
+---
 
-Professional computer training institute platform with course management, lead generation, and placement tracking — live with real students.
+### 🎥 [Aura Meet — Zoom Clone](your-link)
+> Real-time video conferencing with multi-user rooms, live chat, mute/video toggle, screen sharing & shareable room links.
 
-MongoDB   Node.js  Tailwind CSS Cloudinary Nodemailer Mongoose
-`MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
+`WebRTC` `Socket.io` `React.js` `Node.js` `Express.js` `MongoDB`
 
+- Built WebRTC signaling server in Node.js for ICE candidate negotiation & SDP exchange
+- Socket.io for real-time events across concurrent sessions with room-based broadcasting
 
-🎯 SEO-optimised landing pages with structured H1/meta targeting "Best Computer Institute in Delhi"
-📚 Dynamic course catalogue with filters, brochure downloads & enquiry system
-📩 Automated lead pipeline — OTP verification, WhatsApp notifications & email confirmations via Nodemailer
-🖼 Cloudinary CDN integration with f_auto,q_auto for 60–80% faster image delivery
-📊 Placement news marquee, alumni reviews slider & hiring companies showcase
-🔔 Smart alert popup system with 5 themed variants, hover-pause timer & enquiry modal
-🗺 Multi-page SPA — Home, Courses, About, Blog, Contact — with ScrollToTop on navigation
-📱 Fully responsive across all screen sizes with brand color system (#094E93)
+---
 
 ### 🏠 [Roost — Airbnb Clone](https://github.com/ynayak658/roost) &nbsp; 🏆 *Student of the Month*
 > Full-stack rental marketplace inspired by Airbnb, deployed with real users.
 
 `MongoDB` `EJS` `Node.js` `Express.js` `Mongoose` `Leaflet` `JavaScript` `Cloudinary` `Passport.js`
 
-- Secure authentication & authorization with session management
-- Interactive maps with Leaflet + geocoding integration
-- Advanced search, filtering & review system
-- Fully responsive UI with strong error handling
+- Passport.js auth with session management, Cloudinary image uploads & Leaflet interactive maps
+- Advanced search, filtering, review system & clean RESTful routing with server-side validations
+
+---
+
+### 🏫 [EduraIndia — Computer Institute Platform](your-link) &nbsp; 🏆 *Full-Stack Production Project*
+> Professional computer training institute platform with course management, lead generation & placement tracking — live with real students.
+
+`MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
+
+- SEO-optimised landing pages with structured H1/meta targeting *"Best Computer Institute in Delhi"*
+- Automated lead pipeline — OTP verification, WhatsApp notifications & email confirmations via Nodemailer
+- Cloudinary CDN with `f_auto,q_auto` for 60–80% faster image delivery
+- Multi-page SPA (Home, Courses, About, Blog, Contact) with smart alert popup system & placement showcase
 
 ---
 
@@ -100,9 +106,6 @@ MongoDB   Node.js  Tailwind CSS Cloudinary Nodemailer Mongoose
 
 - 🧮 Calculator with advanced operations — [View →](your-link)
 - 🎵 Simon Says Game with progressive difficulty — [View →](your-link)
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **Student of the Month** — Roost project at IFDA Institute
