@@ -52,6 +52,22 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 
 ## 🚀 Featured Projects
 
+
+ EduraIndia — Best Computer Institute in Delhi   🏆 Full-Stack Production Project
+
+Professional computer training institute platform with course management, lead generation, and placement tracking — live with real students.
+
+MongoDB Express.js React Node.js Vite Tailwind CSS Cloudinary Nodemailer Mongoose
+
+🎯 SEO-optimised landing pages with structured H1/meta targeting "Best Computer Institute in Delhi"
+📚 Dynamic course catalogue with filters, brochure downloads & enquiry system
+📩 Automated lead pipeline — OTP verification, WhatsApp notifications & email confirmations via Nodemailer
+🖼 Cloudinary CDN integration with f_auto,q_auto for 60–80% faster image delivery
+📊 Placement news marquee, alumni reviews slider & hiring companies showcase
+🔔 Smart alert popup system with 5 themed variants, hover-pause timer & enquiry modal
+🗺 Multi-page SPA — Home, Courses, About, Blog, Contact — with ScrollToTop on navigation
+📱 Fully responsive across all screen sizes with brand color system (#094E93)
+
 ### 🏠 [Roost — Airbnb Clone](https://github.com/ynayak658/roost) &nbsp; 🏆 *Student of the Month*
 > Full-stack rental marketplace inspired by Airbnb, deployed with real users.
 
