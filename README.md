@@ -57,7 +57,9 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 
 Professional computer training institute platform with course management, lead generation, and placement tracking — live with real students.
 
-MongoDB Express.js React Node.js Vite Tailwind CSS Cloudinary Nodemailer Mongoose
+MongoDB   Node.js  Tailwind CSS Cloudinary Nodemailer Mongoose
+`MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
+
 
 🎯 SEO-optimised landing pages with structured H1/meta targeting "Best Computer Institute in Delhi"
 📚 Dynamic course catalogue with filters, brochure downloads & enquiry system
@@ -71,12 +73,12 @@ MongoDB Express.js React Node.js Vite Tailwind CSS Cloudinary Nodemailer Mongoos
 ### 🏠 [Roost — Airbnb Clone](https://github.com/ynayak658/roost) &nbsp; 🏆 *Student of the Month*
 > Full-stack rental marketplace inspired by Airbnb, deployed with real users.
 
-`MongoDB` `EJS` `Node.js` `Express.js` `Mongoose` `Leaflet` `JavaScript`
+`MongoDB` `EJS` `Node.js` `Express.js` `Mongoose` `Leaflet` `JavaScript` `Cloudinary` `Passport.js`
 
-- 🔐 Secure authentication & authorization with session management
-- 🗺 Interactive maps with Leaflet + geocoding integration
-- 🔍 Advanced search, filtering & review system
-- 📱 Fully responsive UI with strong error handling
+- Secure authentication & authorization with session management
+- Interactive maps with Leaflet + geocoding integration
+- Advanced search, filtering & review system
+- Fully responsive UI with strong error handling
 
 ---
 
