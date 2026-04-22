@@ -56,15 +56,6 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 
 ---
 
-### 🎥 [Aura Meet — Zoom Clone](your-link)
-> Real-time video conferencing with multi-user rooms, live chat, mute/video toggle, screen sharing & shareable room links.
-
-`WebRTC` `Socket.io` `React.js` `Node.js` `Express.js` `MongoDB`
-
-- Built WebRTC signaling server in Node.js for ICE candidate negotiation & SDP exchange
-- Socket.io for real-time events across concurrent sessions with room-based broadcasting
-
----
 
 ### 🏠 [Roost — Airbnb Clone](https://github.com/ynayak658/roost) &nbsp; 🏆 *Student of the Month*
 > Full-stack rental marketplace inspired by Airbnb, deployed with real users.
