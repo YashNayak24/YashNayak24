@@ -119,7 +119,7 @@ Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months
 [![Phone](https://img.shields.io/badge/+91_9958700178-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919958700178)
 
 </div>
----
+
 
 <div align="center">
   
