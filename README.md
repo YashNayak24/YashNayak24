@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yash Lal Nayak 👋</h1>
+<h1 align="center">Hi there, I'm Yash Nayak 👋</h1>
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+🚀;Full+Stack+Web+Developer;Building+Real-World+Apps+from+Delhi+🇮🇳;Student+of+the+Month+Award+Winner+🏆)
@@ -47,7 +47,7 @@ Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months
 ---
 
 ### 🏫 [Edura — Computer Institute Platform](https://github.com/YashNayak24/edura-india) &nbsp; 🏆 *Full-Stack Production Project*
-> Professional computer training institute platform with course management, lead generation & placement tracking — live with real students.
+> Professional computer training institute platform with course management, lead generation & placement tracking — live with real students.&nbsp; 👥 *2-Person Team*
 
 `MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
 
