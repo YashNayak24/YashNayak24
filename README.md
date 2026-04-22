@@ -1,129 +1,150 @@
 <div align="center">
-
-# 🌌 YASH LAL NAYAK
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🏆+Student+of+the+Month+Winner;💻+MERN+Stack+Developer;🚀+Full+Stack+%7C+Delhi%2C+India;🔥+Code.+Build.+Ship.+Repeat!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Lal%20Nayak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Delhi%2C%20India&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/ynayak658?style=social)](https://github.com/ynayak658)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=ynayak658&color=FF6B6B&style=flat-square&label=👁️+Views)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=500&color=A9B1D6&center=true&vCenter=true&width=500&lines=Student+of+the+Month+🏆+%7C+IFDA+Institute;Full+Stack+Dev+%7C+BCA+%40+MDU+2026;MongoDB+%7C+Express+%7C+React+%7C+Node.js)](https://github.com/ynayak658)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## `$ whoami`
 
-### 👾 Who Am I?
+<table>
+<tr>
+<td width="55%">
 
-```javascript
-const yash = {
-  name: "Yash Lal Nayak",
-  role: "MERN Stack Developer",
-  location: "Delhi, India 🇮🇳",
-  education: "BCA @ MDU (2026)",
-  achievement: "🏆 Student of the Month",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  alsoKnows: ["HTML5", "CSS3", "JavaScript", "MySQL"],
-  tools: ["Tailwind CSS", "EJS", "Leaflet", "REST APIs"],
-  openTo: "Internships & Collaborations ✅",
-  contact: "ynayak658@gmail.com"
-};
+```yaml
+name: Yash Lal Nayak
+handle: ynayak658
+location: Delhi, India
+role: MERN Stack Developer
+education:
+  - BCA @ MDU (Expected 2026)
+  - Diploma in Programming @ IFDA
+achievement: 🏆 Student of the Month
+stack:
+  - MongoDB + Mongoose
+  - Express.js (REST APIs)
+  - React.js + Tailwind
+  - Node.js
+also: HTML5, CSS3, JS, MySQL, EJS
+available_for: Internships ✅
+contact: ynayak658@gmail.com
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynayak658&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ls skills/`
+
+```
+📁 frontend/
+├── ✅ HTML5 & CSS3       ████████████████████  Strong
+├── ✅ JavaScript (ES6+)  ████████████████░░░░  Advanced
+├── ✅ React.js           ██████████████░░░░░░  Intermediate+
+├── ✅ Tailwind CSS       ████████████████░░░░  Proficient
+├── ✅ EJS Templating     █████████████░░░░░░░  Proficient
+└── ✅ Responsive Design  ████████████████████  Expert
+
+📁 backend/
+├── ✅ Node.js            ████████████████░░░░  Advanced
+├── ✅ Express.js         ████████████████░░░░  Advanced
+└── ✅ REST APIs          █████████████░░░░░░░  Proficient
+
+📁 database/
+├── ✅ MongoDB + Mongoose ████████████████░░░░  Advanced
+└── ✅ MySQL              ████████░░░░░░░░░░░░  Intermediate
+
+📁 tools/
+├── ✅ Git & GitHub
+├── ✅ Leaflet Maps
+└── ✅ Session Management
 ```
 
 ---
 
-### 🎯 Skills & Arsenal
+## `$ cat projects.md`
 
-<div align="center">
+<br/>
 
-**🌐 Frontend**
+**🏠 Roost — Airbnb Clone** &nbsp; 🏆 *Student of the Month*
+&nbsp;&nbsp;&nbsp; Full-stack rental marketplace with auth, maps, search & reviews
+&nbsp;&nbsp;&nbsp; `MongoDB` `EJS` `Node.js` `Express` `Leaflet` · [View Repo →](https://github.com/ynayak658/roost)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+<br/>
 
-**⚙️ Backend**
+**🌐 IFDA Institute Website**
+&nbsp;&nbsp;&nbsp; Institutional site with modern UI/UX & responsive layout
+&nbsp;&nbsp;&nbsp; `HTML5` `CSS3` `JavaScript` · [View →](your-link)
 
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<br/>
 
-**🗄️ Database & Tools**
+**💼 Personal Portfolio**
+&nbsp;&nbsp;&nbsp; Responsive portfolio with smooth animations & optimized performance
+&nbsp;&nbsp;&nbsp; `HTML5` `CSS3` `JavaScript` · [View →](your-link)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+<br/>
 
-</div>
+**🧮 Calculator & 🎮 Simon Says Game**
+&nbsp;&nbsp;&nbsp; Interactive browser apps with JS logic
+&nbsp;&nbsp;&nbsp; `Vanilla JS` · [Calculator →](your-link) · [Simon Says →](your-link)
 
 ---
 
-### 🚀 Projects I'm Proud Of
+## `$ cat achievements.log`
 
-<div align="center">
-
-| 🏗 Project | 📝 Description | 🔧 Tech | 🏆 |
-|-----------|---------------|---------|-----|
-| [🏠 Roost](https://github.com/ynayak658/roost) | Full-stack Airbnb Clone | MERN + Leaflet | Student of Month |
-| [🌐 IFDA Website](your-link) | Institutional website | HTML, CSS, JS | Live |
-| [💼 Portfolio](your-link) | Personal portfolio | HTML, CSS, JS | Live |
-| [🧮 Calculator](your-link) | Advanced calculator | Vanilla JS | Live |
-| [🎮 Simon Says](your-link) | Memory game | JS + Logic | Live |
-
-</div>
-
----
-
-### 🏆 Achievements Unlocked
-
-```
-🥇  Student of the Month  ─────────────────────────── IFDA Institute
-🎓  Full Stack Training   ─────────────────────────── Completed ✅
-🏠  Airbnb Clone (Roost) ─────────────────────────── Deployed ✅
-🚀  Production Web Apps  ─────────────────────────── 5+ Projects ✅
-📚  BCA Degree           ─────────────────────────── In Progress 🔄
+```bash
+[2024] 🏆 Student of the Month — Roost (Airbnb Clone) @ IFDA Institute
+[2024] ✅ Completed Full Stack Development Training @ IFDA
+[2024] 🚀 Deployed production-grade rental marketplace (Roost)
+[2024] 🌐 Built 5+ real-world web projects
+[2025] 🎓 BCA — In Progress @ MDU (Expected 2026)
 ```
 
 ---
 
-### 📊 GitHub in Numbers
+## `$ github --stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ynayak658&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynayak658&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" width="40%" />
-
-<img src="https://streak-stats.demolab.com?user=ynayak658&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ynayak658&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=ynayak658&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
 ---
 
-### 📡 Find Me Online
+## `$ contact --all`
 
 <div align="center">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashlalnayak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynayak658@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynayak658)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919958700178)
+[📧 ynayak658@gmail.com](mailto:ynayak658@gmail.com) &nbsp;·&nbsp; [📱 +91-9958700178](tel:+919958700178) &nbsp;·&nbsp; [🌐 Portfolio](https://your-portfolio-link.com) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/yashlalnayak) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/ynayak658)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ynayak658&color=A9B1D6&style=flat-square&label=profile+views)
+
+<br/>
 
 </div>
 
----
-
 <div align="center">
-  
-  ### 💬 My Motto
-  
-  > *"Don't just learn to code — build things that matter."*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
