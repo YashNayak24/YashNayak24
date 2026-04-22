@@ -9,15 +9,9 @@
 
 ## 🧑‍💻 About Me
 
-Passionate **MERN Stack Developer** and BCA student with hands-on experience building dynamic, user-friendly full stack applications. Proven ability to deliver production-grade projects — including an award-winning Airbnb clone.
 
-- 🎓 Pursuing **BCA from Maharishi Dayanand University** (2026)
-- 🏆 **Student of the Month** — Roost (Airbnb Clone) at IFDA Institute
-- 💼 Experienced in **MERN Stack, RESTful APIs & Responsive Design**
-- 🤝 Open to **internships, collaborations & opportunities**
-- 📫 Reach me at **ynayak658@gmail.com**
-- 📱 **+91 9958700178**
-- 🌐 **[Portfolio](https://your-portfolio-link.com)** · **[GitHub](https://github.com/ynayak658)**
+Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months to building production-grade web applications. Independently built and deployed 5+ production-ready projects, — from an Airbnb clone to a live institute platform (EduraIndia) — currently interning as a Full Stack Developer while freelancing on the side.
+
 
 ---
 
@@ -35,9 +29,7 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
-**Backend:**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Backend:**![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -56,6 +48,18 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 
 ---
 
+### 🏫 [Edura — Computer Institute Platform](https://github.com/YashNayak24/edura-india) &nbsp; 🏆 *Full-Stack Production Project*
+> Professional computer training institute platform with course management, lead generation & placement tracking — live with real students.
+
+`MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
+
+- SEO-optimised landing pages with structured H1/meta targeting *"Best Computer Institute in Delhi"*
+- Automated lead pipeline — OTP verification, WhatsApp notifications & email confirmations via Nodemailer
+- Cloudinary CDN with `f_auto,q_auto` for 60–80% faster image delivery
+- Multi-page SPA (Home, Courses, About, Blog, Contact) with smart alert popup system & placement showcase
+
+---
+
 
 ### 🏠 [Roost — Airbnb Clone](https://github.com/ynayak658/roost) &nbsp; 🏆 *Student of the Month*
 > Full-stack rental marketplace inspired by Airbnb, deployed with real users.
@@ -67,17 +71,6 @@ Passionate **MERN Stack Developer** and BCA student with hands-on experience bui
 
 ---
 
-### 🏫 [EduraIndia — Computer Institute Platform](your-link) &nbsp; 🏆 *Full-Stack Production Project*
-> Professional computer training institute platform with course management, lead generation & placement tracking — live with real students.
-
-`MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
-
-- SEO-optimised landing pages with structured H1/meta targeting *"Best Computer Institute in Delhi"*
-- Automated lead pipeline — OTP verification, WhatsApp notifications & email confirmations via Nodemailer
-- Cloudinary CDN with `f_auto,q_auto` for 60–80% faster image delivery
-- Multi-page SPA (Home, Courses, About, Blog, Contact) with smart alert popup system & placement showcase
-
----
 
 ### 🌐 Frontend Websites
 > Multiple responsive websites with modern UI/UX design.
