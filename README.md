@@ -120,14 +120,6 @@ Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YashNayak24/YashNayak24/output/github-contribution-grid-snake-dark.svg)
-
-</div>
----
 
 ## 📬 Connect With Me
 
