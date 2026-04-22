@@ -58,6 +58,17 @@ Detail-oriented MERN Stack Developer, have hands-on experience with my 3+ months
 
 ---
 
+### 🏫 [Edura India — Computer Institute Platform](https://github.com/YashNayak24/edura-india) &nbsp; 🏆 *Full-Stack Production Project* &nbsp; 👥 *2-Person Team*
+> Live at [eduraindia.com](https://eduraindia.com) — A full-stack institute platform offering courses in Design, Coding, Marketing & Editing with automated lead generation & placement tracking.
+
+`MongoDB` `Express.js` `React` `Node.js` `Mongoose` `Vite` `Tailwind CSS` `Cloudinary` `Nodemailer`
+
+- SEO-optimised pages targeting *"Best Computer Institute in Delhi"* with structured meta/H1 tags
+- Automated lead pipeline — OTP verification & email confirmations via Nodemailer
+- Cloudinary CDN with `f_auto,q_auto` for 60–80% faster image delivery
+- Multi-page SPA (Home, Courses, About, Blog, Contact) with smart alert popup, enquiry system & placement showcase
+
+---
 
 ### 🏠 [Roost — Airbnb Clone](https://github.com/ynayak658/roost) &nbsp; 🏆 *Student of the Month*
 > Full-stack rental marketplace inspired by Airbnb, deployed with real users.
